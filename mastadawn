@@ -1,0 +1,62 @@
+modules here ig
+
+ui library :
+  [/] Toggles
+  [/] Sliders
+  [/] Color Sliders (when double clicking, it turns rainbow like vape)
+  [/] Dropdowns
+  [/] Array List (rainbow)
+  [/] Notifications color : purple & black
+  [/] Overlay/Server Info
+  [/] Enabled modules color : purple
+  [/] Background color : black
+  
+modules :
+  [/] Sprint
+  [/] Velocity
+  [/] Auto Leave
+  [/] Fast Consume
+  [/] Fly
+  [/] Aura (with Target Hud)
+  [/] No Fall
+  [/] No Slow
+  [/] Speed
+  [/] Spider
+  [/] Bread Crumbs
+  [/] Bed ESP
+  [/] Cape
+  [/] FOV Changer
+  [/] ESP
+  [/] Name Tags
+  [/] Chams
+  [/] Auto Bank
+  [/] Anti AFK
+  [/] Auto Buy
+  [/] Auto Consume
+  [/] Auto Kit
+  [/] Auto Toxic
+  [/] Auto Report
+  [/] Chest Stealer
+  [/] No Name Tag
+  [/] Fast Pickup
+  [/] Shop Bypass
+  [/] Death TP
+  [/] Anti Void
+  [/] Bed Nuker
+  [/] View Model
+  [/] Target Strafe
+  [/] Auto Win
+  [/] Hacker Detector (Aura, (Inf) Fly, Auto Bank / Toxic (if possible), Speed, etc. (I think you get it).
+  -- from reply
+  [/] Make the notifications almost as big as vapes and when making one it should look something like: createwarning("Notification", "Hello", 5)
+  [/] Step
+  [/] Phase
+  [/] Proj Aura
+  [/] China Hat
+  [/] Inf Fly (try to make it as good/fast as vapes)
+  [/] Add show target (box) to aura
+  [/] Damage Indicators (changes the bedwars dmg indicators color to rainbow)
+  [/] Anti Death
+  [/] Anti Hit
+  
+  -- and I think that's it
