@@ -59,5 +59,6 @@ modules :
   [/] Damage Indicators (changes the bedwars dmg indicators color to rainbow)
   [/] Anti Death
   [/] Anti Hit
+  [/] Uninject
   
   -- and I think that's it
