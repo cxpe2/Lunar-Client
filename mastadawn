@@ -50,6 +50,7 @@ modules :
   -- from reply
   [/] Make the notifications almost as big as vapes and when making one it should look something like: createwarning("Notification", "Hello", 5)
   [/] Step
+  [/] LongJump (damage)
   [/] Phase
   [/] Proj Aura
   [/] China Hat
