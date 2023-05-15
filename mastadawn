@@ -61,6 +61,6 @@ modules :
   [/] Anti Hit
   [/] Uninject
   [/] SkyColor (like vapes Atmosphere)
-  -- if you have any ideas on modules that you could add please do lol
+  [/] Anti Crash (shuts down the game when ping too high and fps too low)
   
-  -- and I think that's it
+  -- if you have any ideas on modules that you could add please do lol
