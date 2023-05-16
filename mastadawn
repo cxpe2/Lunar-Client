@@ -13,26 +13,26 @@ ui library :
   
 modules :
   [/] Sprint
-  [/] Velocity
-  [/] Auto Leave
+  [/] Velocity (amount slider (like vapes))
+  [/] Auto Leave (stay in game toggle)
   [/] Fast Consume
-  [/] Fly
-  [/] Aura (with Target Hud)
+  [/] Fly (CFrame, Y level slider, speed slider, blocks traveled and time guis (I'll send a pic))
+  [/] Aura (with Target Hud, Show Target (Box & Highlight (color slider)), Animations)
   [/] No Fall
   [/] No Slow
-  [/] Speed
-  [/] Spider
-  [/] Bread Crumbs
+  [/] Speed (CFrame, speed slider, auto jump toggle and slider)
+  [/] Spider (speed slider)
+  [/] Bread Crumbs (color slider)
   [/] Bed ESP
   [/] Cape
-  [/] FOV Changer
-  [/] ESP
-  [/] Name Tags
-  [/] Chams
+  [/] FOV Changer (amount slider)
+  [/] ESP (if ur making only 1 color and not team colors then add a color slider)
+  [/] Name Tags (if ur making only 1 color and not team colors then add a color slider)
+  [/] Chams (if ur making only 1 color and not team colors then add a color slider)
   [/] Auto Bank
   [/] Anti AFK
   [/] Auto Buy
-  [/] Auto Consume
+  [/] Auto Consume (health slider)
   [/] Auto Kit
   [/] Auto Toxic
   [/] Auto Report
@@ -41,26 +41,26 @@ modules :
   [/] Fast Pickup
   [/] Shop Bypass
   [/] Death TP
-  [/] Anti Void
-  [/] Bed Nuker
-  [/] View Model
-  [/] Target Strafe
-  [/] Auto Win
-  [/] Hacker Detector (Aura, (Inf) Fly, Auto Bank / Toxic (if possible), Speed, etc. (I think you get it).
-  -- from reply
-  [/] Make the notifications almost as big as vapes and when making one it should look something like: createwarning("Notification", "Hello", 5)
-  [/] Step
-  [/] LongJump (damage)
-  [/] Phase
-  [/] Proj Aura
-  [/] China Hat
-  [/] Inf Fly (try to make it as good/fast as vapes)
-  [/] Add show target (box) to aura
+  [/] Anti Void (color slider, neon material, transparency slider)
+  [/] Bed Nuker (distance slider, show healthbar and effects toggle, animations toggle)
+  [/] View Model (like a nobob but it has the walking anim (no bob toggle (sword has no bob now), highlight toggle, highlight color slider, transparency slider))
+  [/] Target Strafe (distance slider)
+  [/] Auto Win (play video toggle)
+  [/] Hacker Detector (Aura, (Inf) Fly, Auto Bank & Auto Toxic (if possible), Speed, etc. (I think you get it). (add toggles for every detector (to show notifications) (auto bank, aura, etc)))
+  [/] Make the notifications almost as big as vapes and when making one it should look something like : createwarning("Notification", "Hello", 5)
+  [/] Step (amount slider)
+  [/] LongJump (damage) (slowdown slider) (speed slider)
+  [/] Phase (amount slider)
+  [/] Proj Aura (fov slider)
+  [/] Proj Aimbot
+  [/] China Hat (color slider)
+  [/] Inf Fly (try to make it as good/fast as vapes) (Y level slider) (blocks traveled gui (I'll send a pic))
   [/] Damage Indicators (changes the bedwars dmg indicators color to rainbow)
   [/] Anti Death
   [/] Anti Hit
   [/] Uninject
-  [/] SkyColor (like vapes Atmosphere)
-  [/] Anti Crash (shuts down the game when ping too high and fps too low)
+  [/] SkyColor (like vapes Atmosphere) (also if you can try and get the sky id's that I sent you (Scrxpted's latest meteor vid)) (color slider)
+  [/] Anti Crash (shuts down the game when ping too high and fps too low) (fps and ping sliders)
+  [/] Fast Drop
   
   -- if you have any ideas on modules that you could add please do lol
