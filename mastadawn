@@ -4,9 +4,9 @@ ui library :
   [/] Toggles
   [/] Sliders
   [/] Color Sliders (when double clicking, it turns rainbow like vape)
-  [/] Dropdowns
+  [/] Dropdowns (for example (vape) : Speed - Normal or CFrame)
   [/] Array List (rainbow)
-  [/] Notifications color : purple & black
+  [/] Notifications color : purple & black (also add a title to them (something like createwarning("Title", "Description", 5 -- [[ duration ]]))
   [/] Overlay/Server Info
   [/] Enabled modules color : purple
   [/] Background color : black
