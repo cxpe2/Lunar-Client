@@ -1,17 +1,4 @@
-modules here ig
-
-ui library :
-  [/] Toggles
-  [/] Sliders
-  [/] Color Sliders (when double clicking, it turns rainbow like vape)
-  [/] Dropdowns (for example (vape) : Speed - Normal or CFrame)
-  [/] Array List (rainbow)
-  [/] Notifications color : purple & black (also add a title to them (something like createwarning("Title", "Description", 5 -- [[ duration ]]))
-  [/] Overlay/Server Info
-  [/] Enabled modules color : purple
-  [/] Background color : black
-  
-modules :
+modules here ig :
   [/] Sprint
   [/] Velocity (amount slider (like vapes))
   [/] Auto Leave (stay in game toggle)
@@ -62,5 +49,17 @@ modules :
   [/] SkyColor (like vapes Atmosphere) (also if you can try and get the sky id's that I sent you (Scrxpted's latest meteor vid)) (color slider)
   [/] Anti Crash (shuts down the game when ping too high and fps too low) (fps and ping sliders)
   [/] Fast Drop
+  [/] Bed TP
+  [/] KeepCurrentPlace (tp's you were you last died after respawning)
+  [/] FPS & Ping display
+  [/] Inf Jump (with hold toggle)
+  [/] AutoSkywars (will vclip out of the skywars cage)
+  [/] VClip (with sliders)
+  [/] Scoreboard (old bw leaderboard)
+  [/] Remotes Player (yuzi sound, pooper, dragon/plasma)
+  [/] High Jump (with sliders)
+  [/] Anti Projectile (with sliders)
+  [/] Game Fixer (with HitFix aswell)
+  [/] Anti Error (loads all character parts (if they didn't load in))
   
   -- if you have any ideas on modules that you could add please do lol
